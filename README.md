@@ -5,7 +5,7 @@ Minecraft Beta 1.7.3 standalone launcher intended for offline use far into the f
 
 [Please go here for the full build!](https://mega.nz/folder/3A9h0IbK#dT_B3DR3XgOLQABWjwtczw)
 
-There is a build also here in the build folder that has a a large, likely unused, library from inside java 8 removed (jfxwebkit.dll) in order to fit in githubs file size limits. It should work fine too but no guarentees so I recommend using the build from mega or making your own.
+There is a build also here in the build folder that has a a large, likely unused, library from inside java 8 removed (jfxwebkit.dll) in order to fit in githubs file size limits. It should work fine too but no guarentees so I recommend using the build from mega (the link above) or making your own.
 
 This project is intended as a means to aid in the longevity of the most nostolgic and influential version of minecraft, beta 1.7.3 from 2011
 
