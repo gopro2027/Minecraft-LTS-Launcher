@@ -17,7 +17,7 @@ Features:
 * Toggle on and off the 2 most important mods, Too Many Items and Aether
 * Export server file to run a server
 
-Packaged inside of the program is also java 8, which is required to run the aether mod correctly, so if you run this on Windows it will run the program using the includes java jdk8u51 x64 rather than what java you may have installed.
+Packaged inside of the program is also java 8, which is required to run the aether mod correctly, so if you run this on Windows it will run the program using the included java jdk8u51 x64 rather than what java you may have installed.
 If you are running on linux you may need to find a java 8 installation to use or modify the source code as necessary.
 
 
