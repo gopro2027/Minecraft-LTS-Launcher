@@ -3,9 +3,7 @@ Minecraft Beta 1.7.3 standalone launcher intended for offline use far into the f
 
 ![image](https://user-images.githubusercontent.com/7937950/233542642-5abe600e-39e8-4e16-912a-60dbc40f235f.png)
 
-[Please go here for the full build!](https://mega.nz/folder/3A9h0IbK#dT_B3DR3XgOLQABWjwtczw)
-
-Side note: There is also a build here in the build folder that has a a large, likely unused, library from inside java 8 removed (jfxwebkit.dll) in order to fit in githubs file size limits (100mb limit, the original jdk bumped the jar to 112mb and I wasn't able to compress it to less than 100 without removing things). It should work fine too but no guarentees so I recommend using the build from mega (the link above) or making your own build with the code. I debated not uploading the jar here on github at all but I feel like github is more reliable of a service than any file sharing website (such as mega) so I can trust it better to never dissappear.
+You can download the latest compiled jar file in the builds folder
 
 This project is intended as a means to aid in the longevity and preservation of the most nostolgic and influential version of minecraft, beta 1.7.3 from 2011
 
